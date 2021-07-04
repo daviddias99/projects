@@ -4,6 +4,7 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
 
 ## MIEIC FEUP
 
+---
 ### PROG - Programming
 
 This course had the goal of introducing us to basic programming concepts like types, input/output, control structures, data structures, etc. using the C/C++ language. 
@@ -35,7 +36,7 @@ The objective of this practical work is to develop two programs, one to create a
 
 [**Link to the project**](https://github.com/daviddias99/project-2-feup-prog)
 
-
+---
 ### AEDA - Algorithms and Data structures
 
 In this course was focused on teaching us different algorithms (searching, sorting, ...) and data structures (lists, heaps, trees, sets, ...) and practicing their use using C++. We also learned about some concepts of UML, algorithm complexity (big-O notation).
@@ -60,6 +61,7 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha) a
 
 [**Link to the project**](https://github.com/daviddias99/pharmacy-chain-feup-aeda)
 
+---
 ### LCOM - Computer Laboratory
 
 In this course we were taught concepts of low level and device programming. We had weekly lab sessions where we experimented with different devices such as the timer, mouse, keyboard, videocard. For the final project we developed a game called **Typing Invaders** that used all the devices used in the labs and the RTC, and serial port. This course allowed me to gain knowledge on low level programming, more advanced C, and embedded systems.
@@ -84,13 +86,14 @@ The projects and labs were developed with [Luís Cunha](https://github.com/luisp
 
 [**Link to the project**](https://github.com/daviddias99/low-level-programming-feup-lcom)
 
+---
 ### BDAD - Databases
 
 In this course we learned concepts of database design (normal forms, functional dependencies, ...) and of relational database systems. We learned the best practices for designing databases, querying, triggers, ACID, etc.. For the project we were challenged to to design and implement a database using SQLite3 for a given context. We implemented a movie/show database inspired by IMDB.
 
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419997).
 
-The projects and labs were developed with Bernardo Santos ([bernas670](https://github.com/bernas670)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+The project was developed with Bernardo Santos ([bernas670](https://github.com/bernas670)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
 
 #### Project
 
@@ -99,3 +102,20 @@ The projects and labs were developed with Bernardo Santos ([bernas670](https://g
 **Grade:** 17.6/20
 
 [**Link to the project**](https://github.com/bernas670/imdb-database-feup-bdad)
+
+---
+### CAL - Algorithm Design and Analysis
+
+During the course we were taught concepts of algorithm design and analysis (duh!). We approached the concepts of greedy algorithms, divide and conquer, dynamic programming, backtracking , graph algorithms (shortest path, MST, flow, search, chinese postman, Euler circuit, matching, stable mariage), string search/compression and NP-complete reduction. 
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419999).
+
+The project was developed with Joana Ferreira ([joanaferreira0011](https://github.com/joanaferreira0011 "joanaferreira0011")) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+
+#### Project
+
+**Description:** For the project we were tasked with creating an algorithm for the concept of **ridesharing**. By gathering the departure and last arrival times of people in a **graph**, aswell as the existing cars the algorithm should attribute a path to each car to follow, as awell as the people to pickup. We divised an algorithm to do just that and implemented it.
+
+**Grade:** 19.74/20
+
+[**Link to the project**](https://github.com/daviddias99/ridesharing-using-graphs-feup-cal)
