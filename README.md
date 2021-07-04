@@ -83,3 +83,19 @@ The projects and labs were developed with [Luís Cunha](https://github.com/luisp
 **Grade:** 19/20
 
 [**Link to the project**](https://github.com/daviddias99/low-level-programming-feup-lcom)
+
+### BDAD - Databases
+
+In this course we learned concepts of database design (normal forms, functional dependencies, ...) and of relational database systems. We learned the best practices for designing databases, querying, triggers, ACID, etc.. For the project we were challenged to to design and implement a database using SQLite3 for a given context. We implemented a movie/show database inspired by IMDB.
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419997).
+
+The projects and labs were developed with Bernardo Santos ([bernas670](https://github.com/bernas670)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+
+#### Project
+
+**Description:** The project was split into three checkpoint where we followed several steps to design and implement a database for a movie/show website like IMDB. For the first delivery we created the conceptual model, for the second delivery we refined the model and implemented it using SQLite3, and for the last delivery we created a series of queries and triggers. The project contains UML diagrams and SQL files for creating the database.
+
+**Grade:** 17.6/20
+
+[**Link to the project**](https://github.com/bernas670/imdb-database-feup-bdad)
