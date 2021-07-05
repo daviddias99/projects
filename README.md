@@ -119,3 +119,68 @@ The project was developed with Joana Ferreira ([joanaferreira0011](https://githu
 **Grade:** 19.74/20
 
 [**Link to the project**](https://github.com/daviddias99/ridesharing-using-graphs-feup-cal)
+---
+
+### CGRA - Computer Graphics
+
+The computer graphics course was focused on teaching us the concepts of 3D modelling and 3D image generation. We learned concepts like lighting, shading, textures, shadow projection, colot, 3D surfaces, meshes, object modelling, rasterization, etc.. During the semester we did 2 projects that allowed us to apply this concepts in the creation of 3D scenes using WebGL.
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419996).
+
+Both projects were developed with [Luís Cunha](https://github.com/luispcunha).
+
+#### Project 1
+
+**Description:** The first project was focused on creating 3D objects and using those primitives to create more complex objects, while also taking into account concepts of lighting and texturing. In the end we had to compose a 3D scene using the created objects.
+
+**Grade:** 19.1/20
+
+[**Link to the project**](https://github.com/daviddias99/computer-graphics-feup-cgra)
+
+#### Project 2
+
+**Description:** The second project delved into more advanced concepts such as animations, user I/O, L-systems and GLSL shaders. Once again we had to compose a scene, this time of an hilly environment where a bird could fly and pickup branches to build it's nest.
+
+**Grade:** 19.5/20
+
+[**Link to the project**](https://github.com/daviddias99/computer-graphics-feup-cgra)
+---
+### SOPE - Operating Systems
+
+This course was about operating systems and the concepts of low level OS programming in Linux. We talked about scheduling, processes, threads, concurrency, syncronization, memory management, I/O, etc.. The projects done for this course were used to apply and solidify our knowledge on these topics.
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419998).
+
+Both projects were developed with [Luís Cunha](https://github.com/luispcunha) and [Tito Griné](https://github.com/TitoGrine).
+
+#### Project 1
+
+**Description:** For this project we had to created a forensic tool for analysing a given folder. This analysis had to be done using multiple processes and using signals to communicate between them.
+
+**Grade:** *Ungraded*
+
+[**Link to the project**](https://github.com/daviddias99/projects-feup-sope)
+
+#### Project 2
+
+**Description:** The second project had us developing a Banking system to help us practice the concepts of concurrent programming. This communication beetween was done using FIFOs and PIPEs. 
+
+**Grade:** 19.4/20
+
+[**Link to the project**](https://github.com/daviddias99/projects-feup-sope)
+
+---
+### LPOO - Object Oriented Programming Laboratory
+
+During this course we were introduced to concepts of Object Oriented programming and Software engineering. We learned about the SOLID principles, Design Patterns, UML, code smells, good practices, unit testing,... This was also our introduction to the Java programming language.
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=420000).
+
+Both projects were developed with [Luís Cunha](https://github.com/luispcunha)
+
+#### Project 1
+
+**Description:** For this project we had to create a game using Java, were we applied the concepts we learned during the course. We created a version of the Bomberman game. Unfortunately we do not have access to the repository where we had our project.
+
+**Grade:** *Ungraded*
+
