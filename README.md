@@ -243,3 +243,20 @@ Both projects were developed with [Bernardo Santos](https://github.com/bernas670
 **Grade:** 19.4/20
 
 [**Link to the project**](https://github.com/daviddias99/computer-graphics-feup-laig)
+
+---
+### ESOF - Software Engineering
+
+The ESOF course gave us a birds-eye view into the software development pipeline from start to finish. In it we learned different development processes (XP, Scrum, Waterfall...), architectural patterns, documentation (UML diagrams), testing (unit, integration, acceptance), requirements engineering (user stories), product design and marketing (vision, elevator pitch, ...) and project management.
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436443).
+
+Developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), José Gomes([JoeMGomes](https://github.com/JoeMGomes)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+
+#### Project
+
+**Description:** As part of a large group of products built for the Open-CX conference, we built the Agenda Mobile App (AMA). This application used BLE (Bluetooth Low Energy) technology to inform users that they might be passing near an interesting talk in the conference. The application allowed the user to mark their favourite events in the conference and to add their own events to the calendar.
+
+**Grade:** 19.7/20
+
+[**Link to the project**](https://github.com/daviddias99/open-cx-mr-simba-feup-esof)
