@@ -210,3 +210,36 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha)
 **Grade:** 19.7/20
 
 [**Link to the project**](https://github.com/daviddias99/feup-plog)
+
+---
+### LAIG - Graphical Applications Laboratory
+
+The LAIG course was a continuation from the CGRA course. In this course we learned more advanced concepts of 3D computer graphics and were able to apply them in more complex projects. We created more complex 3D objects, used keyframe animations and interfaced with other problems, namely a board game built in the PLOG (Logic programming) course.
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436446).
+
+Both projects were developed with [Bernardo Santos](https://github.com/bernas670)
+
+#### Project 1
+
+**Description:** Much similar to the projects done in the [CGRA course](https://github.com/daviddias99/computer-graphics-feup-cgra), this project had the goal of creating a scene composed of complex objects created from more primitive objects. For this project we also created a Triangle, Sphere, Bottomless cylinder and a Torus. We also created a file type, similar to LXS, which was used to describe the scene graph. We had also to deal with the concepts of lighting, textures, shadows, user I/O and materials. 
+
+**Grade:** 19.8/20
+
+[**Link to the project**](https://github.com/daviddias99/computer-graphics-feup-laig)
+
+#### Project 2
+
+**Description:** The second project built upon the first one and introduced new concepts such as keyframe animations, render to texture using GLSL shaders and 3D surfaces using NURBS.
+
+**Grade:** 20/20
+
+[**Link to the project**](https://github.com/daviddias99/computer-graphics-feup-laig)
+
+#### Project 3
+
+**Description:** For the last project we had the task of using the developped primitives and classes to create a 3D graphical interface for a board game developed in the PLOG course. We then built an interface for the game Squex. We had a scoreboard aswell as a timer, we also included a undo feature, and a game-movie feature which allowed the user to see all the plays done until that point. It was possible to play PvP or Player v Computer, with different levels of difficulty. We had to build the board and pieces of the game as well as animate the camera do follow the right players perspective (in case of PvP).
+
+**Grade:** 19.4/20
+
+[**Link to the project**](https://github.com/daviddias99/computer-graphics-feup-laig)
