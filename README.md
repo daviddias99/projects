@@ -119,8 +119,8 @@ The project was developed with Joana Ferreira ([joanaferreira0011](https://githu
 **Grade:** 19.74/20
 
 [**Link to the project**](https://github.com/daviddias99/ridesharing-using-graphs-feup-cal)
----
 
+---
 ### CGRA - Computer Graphics
 
 The computer graphics course was focused on teaching us the concepts of 3D modelling and 3D image generation. We learned concepts like lighting, shading, textures, shadow projection, colot, 3D surfaces, meshes, object modelling, rasterization, etc.. During the semester we did 2 projects that allowed us to apply this concepts in the creation of 3D scenes using WebGL.
@@ -144,6 +144,7 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha).
 **Grade:** 19.5/20
 
 [**Link to the project**](https://github.com/daviddias99/computer-graphics-feup-cgra)
+
 ---
 ### SOPE - Operating Systems
 
