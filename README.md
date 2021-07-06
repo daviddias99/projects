@@ -184,3 +184,28 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha)
 
 **Grade:** *Ungraded*
 
+---
+### PLOG - Logic Programming
+
+In this course I was introduced a new programming paradigm: logic programming. This new approach presented itself as a challenge, but a very powerful skill in some situations. We applied the concepts of PROLOG first in a board game (with computer play) and then in a constraint solving context, for a construction team scheduling problem.
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436444).
+
+Both projects were developed with [Luís Cunha](https://github.com/luispcunha)
+
+#### Project 1
+
+**Description:** This project had us implement the game of Squex using PROLOG. The game was displayed in the console and is fully playable. This includes: listing available plays, checking for game over, executing plays, computer-AI, board evaluation. You can find the specification and final report in `project_1_squex/docs`. 
+
+**Grade:** 19.4/20
+
+[**Link to the project**](https://github.com/daviddias99/feup-plog)
+
+#### Project 2
+
+**Description:** For this project we used constraint programming (in PROLOG) to solve a scheduling problem envolving a construction team. The team had the objective of maximizing the profit given the available material resources, workers with different skills (and salaries), construction projects that required different skills and precedences between those skills. We had then to model the problem using prolog and use the constraint solving library to find admissible (ideally optimal solutions).
+
+
+**Grade:** 19.7/20
+
+[**Link to the project**](https://github.com/daviddias99/feup-plog)
