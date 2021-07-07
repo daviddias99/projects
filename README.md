@@ -260,3 +260,28 @@ Developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00))
 **Grade:** 19.7/20
 
 [**Link to the project**](https://github.com/daviddias99/open-cx-mr-simba-feup-esof)
+
+---
+### RCOM - Computer networks
+
+During the computer networks course we the basics of the topics following all the layers of the OSI model (Physical -> Data-link -> Network -> Transport -> Applications) along with other auxiliary topics such as MAC and Routing.
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436445).
+
+Both projects were developed with [Bernardo Santos](https://github.com/bernas670) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+
+#### Project 1
+
+**Description:** For the first project we had the task of creating a link-layer protocol that would be used by a test application (created by us) to transfer files between two computeres connected by a serial port. We were able to produce a program that implemented both protocols and that was resistant to errors(disconnecting and reconnecting serial port mid-transmission and introducing electric interference on the connection).
+
+**Grade:** 18/20
+
+[**Link to the project**](https://github.com/daviddias99/networking-feup-rcom)
+
+#### Project 2
+
+**Description:** For the second project we created a application that was able to download a file by implementing the FTP protocol (using sockets). We then used switches, routers and computers available in the network laboratory to create a small network architecture (with two VLANs, switches, NAT) where the application would be used.
+
+**Grade:** 18/20
+
+[**Link to the project**](https://github.com/daviddias99/networking-feup-rcom)
