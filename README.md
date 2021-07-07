@@ -302,3 +302,20 @@ Both projects were developed with [Mário Gil](https://github.com/GambuzX) and L
 **Grade:** 19.6/20
 
 [**Link to the project**](https://github.com/daviddias99/paguri-feup-ltw)
+
+---
+### LBAW - Database and Web application laboratory
+
+In this course we applied the concepts learned in LTW and other software development courses by developping a large scale website. The website was developed in a waterfal fashion in order to facilitate the evaluation of all the steps. During the project we learned concepts of design (UI/UX) from a designer from the Faculty of Fine-Arts. We documented each step of the development from the User stories, mockups, database definition (conceptual, SQL, indexes, triggers), API documentation etc. We did this project in a group of 4.  
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436447).
+
+Both projects were developed with [Mário Gil](https://github.com/GambuzX) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+
+#### Project
+
+**Description:** Creted a News sharing platform called NewsLab: Website/platform where users write and share news and opinions about different subjects, enabling people to interact with the articles by rating or commenting them. Please consult the repository for a detailed description of all the development process and features. The platform was built using Laravel.
+
+**Grade:** 19.4/20
+
+[**Link to the project**](https://github.com/daviddias99/paguri-feup-ltw)
