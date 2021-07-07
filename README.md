@@ -285,3 +285,20 @@ Both projects were developed with [Bernardo Santos](https://github.com/bernas670
 **Grade:** 18/20
 
 [**Link to the project**](https://github.com/daviddias99/networking-feup-rcom)
+
+---
+### LTW - Web technologies
+
+For this course we learned the basis of web technologies like HTML, CSS, PHP and Javascript. We also learned several concepts such as HTTP, regex, XML, basic topics of web security. We applied the learned concepts by building a website.
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436447).
+
+Both projects were developed with [Mário Gil](https://github.com/GambuzX) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+
+#### Project
+
+**Description:** To apply the web technologies learned we created a House-rental website named Paguri. The site is built using vanilla HTML, CSS, PHP and Javascript (no frameworks). And features searching, register/login, Google Maps integration and a public API.
+
+**Grade:** 19.6/20
+
+[**Link to the project**](https://github.com/daviddias99/paguri-feup-ltw)
