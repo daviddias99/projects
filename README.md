@@ -388,3 +388,28 @@ This compiler implements all the steps of a compiler and generated machine code 
 **Grade:** 19.64/20
 
 [**Link to the project**](https://github.com/daviddias99/JMMCompiler-feup-comp)
+
+
+### SDIS - Distribuited systems
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436906).
+
+#### Project 1
+
+**Description:** For the first project we had the goal of implementing a system that allowed backing up a file in a LAN network. Different computers could request that a file be backed up and it would be divided into chunks (even replicated) that would be transmited to other computers. We had to create a concrete message protocol and use different concepts to ensure the system's fault tolerance and scalability (concurrency through thread pools for example).
+
+More info about the project on the link bellow.
+
+**Grade:** 19.2/20
+
+[**Link to the project**](https://github.com/daviddias99/distribuited-backup-service-feup-sdis)
+
+#### Project 2
+
+**Description:** For the second project we had to implement a protocol analogous to the first project but for the internet. We used Chord to create a distribuited hashtable that allowed the backup of chunks through computers in the internet without the use of a centralized ledger.
+
+More info about the project on the link bellow.
+
+**Grade:** 17.84/20
+
+[**Link to the project**](https://github.com/daviddias99/P2P_chord_storage_system)
