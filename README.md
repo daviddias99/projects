@@ -413,3 +413,19 @@ More info about the project on the link bellow.
 **Grade:** 17.84/20
 
 [**Link to the project**](https://github.com/daviddias99/P2P_chord_storage_system)
+
+### SINF - Information Systems
+
+More info on the [course](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459494).
+
+#### Project
+
+**Description:** In order to show the learned concepts about information systems, we had the task of creating a system that would implement to business processes of a company. We chose to create a program that allowed the interface between different instances of the Jasmin ERP in order to implement the business processes of buying/selling and returning goods between companies. This system interface with Jasmin through an API.
+
+More info about the project on the link bellow.
+
+**Grade:** 16.67/20
+
+[**Link to the project**](https://github.com/daviddias99/cimba-intercompany-feup-sinf)
+
+
