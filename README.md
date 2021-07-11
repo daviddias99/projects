@@ -452,3 +452,20 @@ The report contains a detailed description of both the problem and our efforts a
 **Grade:** 17.9/20
 
 [**Link to the project**](https://github.com/daviddias99/shipment-planning-feup-iope)
+
+---
+### LGP - Project Management Laboratory
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=338294).
+
+#### Project
+
+**Description:** During LGP the a collection of programs at FEUP (MIEIC, MIEM, MESG, MESW) and from other faculties (Design @ FBAUP) are split into five companies. Each company must develop their company image and develop 4 projects, dividing the company into 4 teams. 
+
+In LGP I was ellected the CEO of one of the companies ([Platypus Creative Solutions](https://platypus.pt/)), and integrated team B of the company as Design Manager.
+
+Our product was developed by request of [Jumpseller](https://jumpseller.com/) and was to develop a GPS service similar to Uber Eats that would empower small to medium companies to create their own same-day delivery services. As such we built in top of the app jumpseller already has to create the courier support for that service (geo-location tracking, delivery picking, etc.)
+
+We also implemented the backend service that would manage and store the locations of the couriers and display them on a map on the clients browser so tha they could live track the progress of their package.
+
+**Grade:** ??/20
