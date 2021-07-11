@@ -428,4 +428,17 @@ More info about the project on the link bellow.
 
 [**Link to the project**](https://github.com/daviddias99/cimba-intercompany-feup-sinf)
 
+### LDSO - Software Development Laboratory
+
+More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=281226).
+
+#### Project
+
+**Description:** The web-application was developed for the ZeroZero team at ZOS. The system's goal is to receive information about website traffic, and to provide information about possible ill-intended accesses such as web-scrapping bots and XSS/injection attempts. The analysis of these requests is made through an intuitive interface using ReactJS.
+
+The backend service for receiving, analyzing and returning classifications for requests is made using Node/ExpressJS using PostgreSQL.
+
+During this project I had the opportunity of contacting with an Agile Development environment with a team of 7 members. We also had to keep constant attemtion to different software development practices such as Unit Testing, good versioning practices (commits, branches), requirements engineering etc.. Throughout it, I sought to develop my leadership, teamwork, and organizational goals. Unfortunately, since the project was developed for ZeroZero I cannot show the source-code repository.
+
+**Grade:** 20/20
 
