@@ -4,7 +4,6 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
 
 ## MIEIC FEUP
 
----
 ### PROG - Programming
 
 This course had the goal of introducing us to basic programming concepts like types, input/output, control structures, data structures, etc. using the C/C++ language. 
@@ -347,32 +346,6 @@ We used NLP techniques to pre-process the data and to classify it according to t
 [**Link to the project**](https://github.com/daviddias99/sentiment-analysis-in-tweets)
 
 ---
-
-### IART - Artificial Intelligence
-
-More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436445).
-
-Both projects were developed with Manuel Coutinho [ManelCoutinho](https://github.com/ManelCoutinho) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
-
-#### Project 1
-
-**Description:** To implement concepts of classical Artificial Intelligence we implemented a board game (Eximo) that can be played against a computer. The computer implements a Minimax algorithm with configurable depth, use of Alpha-Beta pruning and move ordering.
-
-**Grade:** 19.5/20
-
-[**Link to the project**](https://github.com/daviddias99/minmax-board-game-feup-iart)
-
-#### Project 2
-
-**Description:** This project used NLP techniques to solve the [SemEval-2018](https://alt.qcri.org/semeval2018/index.php?id=tasks)’s E-c task. The task's goal was to classify a Tweet as ’neutral or no emotion’ or as one, or more, of eleven given emotions (anger, anticipation, disgust, fear, joy, love, optimism, pessimism, sadness, surprise and trust) that best represent the mental state of the tweeter.
-
-We used NLP techniques to pre-process the data and to classify it according to the given classes such as: Näive-Bayes, Logistic Regression, Deep Learning Model using LTSM Neural Network and Word Embeddings.
-
-**Grade:** 19/20
-
-[**Link to the project**](https://github.com/daviddias99/sentiment-analysis-in-tweets)
-
----
 ### COMP - Compilers
 
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436448).
@@ -389,7 +362,7 @@ This compiler implements all the steps of a compiler and generated machine code 
 
 [**Link to the project**](https://github.com/daviddias99/JMMCompiler-feup-comp)
 
-
+---
 ### SDIS - Distribuited systems
 
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436906).
@@ -414,6 +387,7 @@ More info about the project on the link bellow.
 
 [**Link to the project**](https://github.com/daviddias99/P2P_chord_storage_system)
 
+---
 ### SINF - Information Systems
 
 More info on the [course](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459494).
@@ -428,6 +402,7 @@ More info about the project on the link bellow.
 
 [**Link to the project**](https://github.com/daviddias99/cimba-intercompany-feup-sinf)
 
+---
 ### LDSO - Software Development Laboratory
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=281226).
@@ -442,6 +417,7 @@ During this project I had the opportunity of contacting with an Agile Developmen
 
 **Grade:** 20/20
 
+---
 ### AIAD - Agents and Distributed Artificial Intelligence
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272771).
@@ -460,3 +436,19 @@ Additionally, sellers had different probabillities of scamming the buyers, takin
 
 **Grade:** 19.6/20
 
+[**Link to the project**](https://github.com/daviddias99/mas-online-marketplace-feup-aiad)
+
+---
+### IOPE - Operations Research
+
+More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272905).
+
+#### Project
+
+**Description:** For this project we had the task of modelling a proposed shipping problem. We had to model import and export constreaints as well as other costs associated with travelling to find out the size of the fleet of two different types of boths that the fictious government of the proposed problem would have to acquire. The problem was solved using Simplex.
+
+The report contains a detailed description of both the problem and our efforts at modelling and solving it. We also had the task of answering to some proposed questions that made us analyse our results and do sensitivity analisis to avoid solving the problem again to answer these questions.
+
+**Grade:** 17.9/20
+
+[**Link to the project**](https://github.com/daviddias99/shipment-planning-feup-iope)
