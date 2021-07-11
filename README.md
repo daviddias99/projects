@@ -442,3 +442,21 @@ During this project I had the opportunity of contacting with an Agile Developmen
 
 **Grade:** 20/20
 
+### AIAD - Agents and Distributed Artificial Intelligence
+
+More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272771).
+
+#### Project 1
+
+**Description:** For the first project we had the goal of proposing and implementing a multiagent system to simulate any real-life scenario using the JADE framework. We chose to create a 2nd hand marketplace where agents (sellers) would define a price for their products based on the market to try to sell them to other agents (Buyers). The sellers and buyers implemented different negotiation protocols and the sellers also implemented protocols that controlled how they would set their prices based on the market prices for their products.
+
+Additionally, sellers had different probabillities of scamming the buyers, taking their money without giving them the product (which both gave them the chance to sell the product again and made it so that the buyers still needed to buy the product). This effected their reputation. Through this we also saught to measure how this factor would both influence the sellers (honesty vs greed) and how it affected the buyers (naiveness vs cautiousness).
+
+**Grade:** 18/20
+
+#### Project 2
+
+**Description:** For the second project we implemented on top of the first one to use the agent simulation toolkit Repast 3 to conduct large scale experiments on the implemented marketplace scenario. Through it we were able to conduct larger experiments and to study more aspects of the different parametrizations of the agents: price elasticity, scam factor, offer and counter offer strategies, seller picking.
+
+**Grade:** 19.6/20
+
