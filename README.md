@@ -430,6 +430,8 @@ Additionally, sellers had different probabillities of scamming the buyers, takin
 
 **Grade:** 18/20
 
+[**Link to the project**](https://github.com/daviddias99/mas-online-marketplace-feup-aiad)
+
 #### Project 2
 
 **Description:** For the second project we implemented on top of the first one to use the agent simulation toolkit Repast 3 to conduct large scale experiments on the implemented marketplace scenario. Through it we were able to conduct larger experiments and to study more aspects of the different parametrizations of the agents: price elasticity, scam factor, offer and counter offer strategies, seller picking.
@@ -469,3 +471,24 @@ Our product was developed by request of [Jumpseller](https://jumpseller.com/) an
 We also implemented the backend service that would manage and store the locations of the couriers and display them on a map on the clients browser so tha they could live track the progress of their package.
 
 **Grade:** ??/20
+
+---
+### VCOM - Computer Vision
+
+More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=384980).
+
+#### Project 1
+
+**Description:** In this work we use a structured light technique to implement a system for 3D data acquisition, namely information about the height of objects, using household items. The technique consists of casting a pattern of light/shadow over the objects, capturing an image of said objects and, after detecting and extracting the pattern of the line, using the perspective projection matrix to compute the real world coordinates of the pattern points. With the image coordinate of those points and the projection matrix we are only able to obtain the line of sight of the image point, but by constraining the plane (light or shadow) to which the points of the pattern belong we are able to obtain the real world coordinates of each of the points of the pattern. We explore several computer vision techniques, including edge detection, data acquisition, and camera calibration. We are able to measure objects that do not have significant texture with a satisfactory precision, as well as introduce some degree of automation to the selection of suitable parameters for the algorithms used.
+
+**Grade:** 18.5/20
+
+[**Link to the project**](https://github.com/bernas670/3d-acquisition-feup-vcom)
+
+#### Project 2
+
+**Description:** In this work we explore some common tasks of modern Computer Vision. We apply classic machine learning algorithms (SVMs) with bag-of-words descriptors and state-of-the-art deep learning architectures to a multi-class classification problem of objects in a Museum (the Met). Since the dataset is highly unbalanced dataset, we explore techniques such as data augmentation. The architectures we use are then adapted to use in a multi-label classification problem.  Finally we explore the usage of CAMs (class activation mapping) to tackle a painting object detection task. 
+
+**Grade:** 19.3/20
+
+[**Link to the project**](https://github.com/daviddias99/artwork-recognition-feup-vcom)
