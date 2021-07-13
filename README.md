@@ -309,7 +309,7 @@ In this course we applied the concepts learned in LTW and other software develop
 
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436452).
 
-Developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Manuel Coutinho [ManelCoutinho](https://github.com/ManelCoutinho))
+Developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho))
 
 #### Project
 
@@ -325,7 +325,7 @@ Developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00))
 
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436445).
 
-Both projects were developed with Manuel Coutinho [ManelCoutinho](https://github.com/ManelCoutinho) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+Both projects were developed with Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
 
 #### Project 1
 
@@ -350,7 +350,7 @@ We used NLP techniques to pre-process the data and to classify it according to t
 
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436448).
 
-Both projects were developed with Eduardo Ribeiro [EduRibeiro00](https://github.com/EduRibeiro00), Manuel Coutinho [ManelCoutinho](https://github.com/ManelCoutinho) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+Both projects were developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
 
 #### Project
 
@@ -363,9 +363,11 @@ This compiler implements all the steps of a compiler and generated machine code 
 [**Link to the project**](https://github.com/daviddias99/JMMCompiler-feup-comp)
 
 ---
-### SDIS - Distribuited systems
+### SDIS - Distributed systems
 
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436906).
+
+Project 1 was developed with Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho)) and Project 2 was developed with Manuel, Andre Rocha ([andrefmrocha](https://github.com/andrefmrocha)) and Mário Gil ([gambuzx](https://github.com/gambuzx))
 
 #### Project 1
 
@@ -391,6 +393,8 @@ More info about the project on the link bellow.
 ### SINF - Information Systems
 
 More info on the [course](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459494).
+
+The project was developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Filipa Senra ([filipasenra](https://github.com/filipasenra)) and Luís Cunha ([luispcunha](https://github.com/luispcunha)
 
 #### Project
 
@@ -422,6 +426,8 @@ During this project I had the opportunity of contacting with an Agile Developmen
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272771).
 
+Both projects were developed with Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+
 #### Project 1
 
 **Description:** For the first project we had the goal of proposing and implementing a multiagent system to simulate any real-life scenario using the JADE framework. We chose to create a 2nd hand marketplace where agents (sellers) would define a price for their products based on the market to try to sell them to other agents (Buyers). The sellers and buyers implemented different negotiation protocols and the sellers also implemented protocols that controlled how they would set their prices based on the market prices for their products.
@@ -444,6 +450,8 @@ Additionally, sellers had different probabillities of scamming the buyers, takin
 ### IOPE - Operations Research
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272905).
+
+The project was developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Monika Stepien.
 
 #### Project
 
@@ -477,6 +485,8 @@ We also implemented the backend service that would manage and store the location
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=384980).
 
+Both projects were developed with Bernardo Santos ([bernas670](https://github.com/bernas670)), Laura Majer ([m-ajer](https://github.com/luispcunha)) Luís Cunha ([luispcunha](https://github.com/m-ajer))
+
 #### Project 1
 
 **Description:** In this work we use a structured light technique to implement a system for 3D data acquisition, namely information about the height of objects, using household items. The technique consists of casting a pattern of light/shadow over the objects, capturing an image of said objects and, after detecting and extracting the pattern of the line, using the perspective projection matrix to compute the real world coordinates of the pattern points. With the image coordinate of those points and the projection matrix we are only able to obtain the line of sight of the image point, but by constraining the plane (light or shadow) to which the points of the pattern belong we are able to obtain the real world coordinates of each of the points of the pattern. We explore several computer vision techniques, including edge detection, data acquisition, and camera calibration. We are able to measure objects that do not have significant texture with a satisfactory precision, as well as introduce some degree of automation to the selection of suitable parameters for the algorithms used.
@@ -492,3 +502,26 @@ More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_vie
 **Grade:** 19.3/20
 
 [**Link to the project**](https://github.com/daviddias99/artwork-recognition-feup-vcom)
+
+---
+### CPAR - Parallel computing
+
+More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=350413).
+
+Both projects were developed with [Luís Cunha](https://github.com/luispcunha).
+
+#### Project 1
+
+**Description:** For this project we studied the performance of matrix multiplication algorithms. In order to study cache-efficiency the algorithm was altered to take this concepts into account by switching loop orders and by implementing blocking versions of the algorithm. We studied the behaviour of the algorithms for different matrix and block-sizes as well as different languages (in this case C/C++ and Java). In the C/C++ version we utilized the PAPI library in order to evaluate cache-misses to further confirm the hypothesis.
+
+**Grade:** 17.7/20
+
+[**Link to the project**](https://github.com/daviddias99/matrix-multiplication-optimization-feup-cpar)
+
+#### Project 2
+
+**Description:** For the second project we talked algorithm parallelization. To do this we utilized different algorithms: matrix multiplication and LU factorization. We utilized different frameworks to achieve parallelism: OpenMP (CPU), Sycl (CPU and GPU) and CUDA (baseline for GPU). We measured the performance of these algorithms for different matrix and block sizes.
+
+**Grade:** 18.4/20
+
+[**Link to the project**](https://github.com/daviddias99/algorithm-parallelization-feup-cpar)
