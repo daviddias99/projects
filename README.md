@@ -323,7 +323,9 @@ Developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00))
 
 ### IART - Artificial Intelligence
 
-More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436445).
+In this course we were taught the basics of AI, following the Russel and Norvig book. We learned about agents, searching mechanisms, optimization techniques (anneaealing, genetic algorithms, etc.) and heuristics. We later were given an overview of Machine Learning and it's different fields: Supervised Learning, Unsupervised Learning, Reinforcement Learning and NLP
+
+More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436449).
 
 Both projects were developed with Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
 
@@ -348,6 +350,8 @@ We used NLP techniques to pre-process the data and to classify it according to t
 ---
 ### COMP - Compilers
 
+In this course we learned every step that composes a compiler, step by step, starting at a review of automata (from the Theory of Computation course), tokenization, lexical and semantic analysis, code optimization, tree and table representations, and ending in code generation and optimizations. To apply this knowledge we implemented a compiler of a subset of Java.
+
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436448).
 
 Both projects were developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
@@ -364,6 +368,8 @@ This compiler implements all the steps of a compiler and generated machine code 
 
 ---
 ### SDIS - Distributed systems
+
+During this course we learned about issues related to distributed software applications, studied typical solutions to typical problems in that domain (distribution transparency, remote invocations, addressing, information dissemination, consensus, etc.), studied the software technologies needed to build distributed applications, developed the skills to use such technologies and to build concrete applications of small and medium size.
 
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436906).
 
@@ -392,6 +398,8 @@ More info about the project on the link bellow.
 ---
 ### SINF - Information Systems
 
+In this course we learned about concepts of information systems, talking about the different types of systems that are currently used in enterprises and manufacturing companies. We applied our concepts by developping an application that interfaced with the Primavera Jasmin ERP.
+
 More info on the [course](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459494).
 
 The project was developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Filipa Senra ([filipasenra](https://github.com/filipasenra)) and Luís Cunha ([luispcunha](https://github.com/luispcunha)
@@ -409,6 +417,8 @@ More info about the project on the link bellow.
 ---
 ### LDSO - Software Development Laboratory
 
+In the LDSO course we were divided into teams of about 7/8 students and were tasked to do a software project for a real company. During the project we were to apply several aspects of real software project development: testing, commiting, branching, SCRUM practices, software quality, ...
+
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=281226).
 
 #### Project
@@ -423,6 +433,8 @@ During this project I had the opportunity of contacting with an Agile Developmen
 
 ---
 ### AIAD - Agents and Distributed Artificial Intelligence
+
+In AIAD we learned about several aspects of multi-agent systems and agent-oriented software development. We learned different agent architectures and explored machine learning techniques such as Reinforcement learning. We also explored concepts of negotiation modelling and were given an introduction to game theory.
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272771).
 
@@ -449,6 +461,8 @@ Additionally, sellers had different probabillities of scamming the buyers, takin
 ---
 ### IOPE - Operations Research
 
+In this course we learned about linear problem formulation and explored different types of problems and algorithms to solve them. We learned about the Simplex Method, Integer programming, Transporation problems, Assignment problems, Network and Graph problems and about decision theory.
+
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272905).
 
 The project was developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Monika Stepien.
@@ -466,13 +480,15 @@ The report contains a detailed description of both the problem and our efforts a
 ---
 ### LGP - Project Management Laboratory
 
+During LGP the a collection of programs at FEUP (MIEIC, MIEM, MESG, MESW) and from other faculties (Design @ FBAUP) are split into five companies. Each company must develop their company image and develop 4 projects, dividing the company into 4 teams. 
+
+In LGP I was ellected the CEO of one of the companies ([Platypus Creative Solutions](https://platypus.pt/)), and integrated team B of the company as Design Manager. Has CEO I had the change of developping my communication skills and of dealing, delegating and facilitating communication between a company of about 50 students.
+
 More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=338294).
 
 #### Project
 
-**Description:** During LGP the a collection of programs at FEUP (MIEIC, MIEM, MESG, MESW) and from other faculties (Design @ FBAUP) are split into five companies. Each company must develop their company image and develop 4 projects, dividing the company into 4 teams. 
-
-In LGP I was ellected the CEO of one of the companies ([Platypus Creative Solutions](https://platypus.pt/)), and integrated team B of the company as Design Manager.
+**Description:**
 
 Our product was developed by request of [Jumpseller](https://jumpseller.com/) and was to develop a GPS service similar to Uber Eats that would empower small to medium companies to create their own same-day delivery services. As such we built in top of the app jumpseller already has to create the courier support for that service (geo-location tracking, delivery picking, etc.)
 
@@ -482,6 +498,10 @@ We also implemented the backend service that would manage and store the location
 
 ---
 ### VCOM - Computer Vision
+
+During this course we started by getting an overview of the classical computer vision pipeline: image acquisition, processing and analysis of acquired images (filtering, segmentation, feature extraction), camera calibration, stereo etc.
+
+Later we learned about machine learning concepts and approaches used in computer vision (Bag of words, SVMs, K-Means,...) and about deep learning (neural networks, CNNs, ...). We explored the usage of deep learning for different computer vision task: object classification, object detection (R-CNN, FAST/FASTER-RCNN, YOLO,...), image segmentation, instance detection, image generation (GANs), style transfer, domain translation, video analysis, ...
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=384980).
 
@@ -505,6 +525,8 @@ Both projects were developed with Bernardo Santos ([bernas670](https://github.co
 
 ---
 ### CPAR - Parallel computing
+
+In this course we learned about differnt aspects of parrallel computing and parallel machines. We learned about cache efficency, ways of parallelizing algorithms and ways of modelling and analyse the performance of parallel computer systems.
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=350413).
 
