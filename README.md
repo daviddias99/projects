@@ -5,7 +5,10 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
 ---
 - [Projects](#projects)
   - [Language breakdown](#language-breakdown)
-  - [MIEIC FEUP](#mieic-feup)
+  - [A. Projects](#a-projects)
+    - [1. Emergent mechanisms to foster social awareness](#1-emergent-mechanisms-to-foster-social-awareness)
+    - [2. Sciencemeter](#2-sciencemeter)
+  - [B. MIEIC-FEUP](#b-mieic-feup)
     - [1. PROG - Programming](#1-prog---programming)
       - [Project 1](#project-1)
       - [Project 2](#project-2)
@@ -70,33 +73,53 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
       - [Project 2](#project-2-11)
     - [25. ASSO - Software architecture](#25-asso---software-architecture)
       - [Project](#project-12)
-  - [Projects](#projects-1)
-    - [26. Emergent mechanisms to foster social awareness](#26-emergent-mechanisms-to-foster-social-awareness)
-    - [27. Sciencemeter](#27-sciencemeter)
 ---     
 
 ## Language breakdown
 
-|Language   |Projects   |
+|Language   |Projects*   |
 |-----------|--------|
 | C++  | 1, 2, 5, 24  |
 | C  |  1, 3, 7, 12, 24 |
 | Java  | 8, 16, 17, 20 |
-| Python  | 15, 23, 26 |
+| Python  | 15, 23, B.1 |
 | Prolog  | 9, 10 |
 | Javascript  | 6, 10, 13, 14, 18 |
-| Typescript  | 25, 27 |
+| Typescript  | 25, B.2 |
 | SQL  | 4, 11, 13, 14, 18, 19 |
 | Flutter  | 11 |
 | HTML/CSS | 13, 14 |
 | PHP | 13, 14 |
 | Laravel | 14 |
-| ReactJS | 18, 19, 27 |
+| ReactJS | 18, 19, B.2 |
 | Ruby | 22 |
-| MongoDB | 27 |
+| MongoDB | B.2 |
 
+***Project IDs are from section A unless indicated otherwise**
 
-## MIEIC FEUP
+---
+
+## A. Projects
+
+### 1. Emergent mechanisms to foster social awareness
+
+This project was developed for the [New Talents in Artificial Intelligence](https://gulbenkian.pt/bolsas-gulbenkian/novos-talentos/) grant by the [Calouste Gulbenkian Foundation](https://gulbenkian.pt/), of which I was one of twelve recipients.
+
+This grant served as my introduction to artificial intelligence and machine learning.
+
+My investigation, developed under the tutorship of [Prof. Rosaldo Rossetti (PhD)](https://scholar.google.com/citations?user=3IqnhE4AAAAJ&hl=en), titled "Emergent Coordination Mechanisms to Foster Social Awareness" used Multi-Agent Reinforcement Learning in conjunction with state-of-the-art reward-shaping techniques like Difference-Rewarding and Resource abstraction to study the concepts of sustainability and scalability under two existing literature problems defined with respect to new model for a class of problems dubbed "Resource Appropriation Problems".
+
+**The repository will be available soon**
+
+### 2. Sciencemeter
+
+This project is currently under development for the Departement of Informatics at FEUP, under the guidance of professor [Rui Maranhão (PhD)](https://ruimaranhao.com/) and [André Restivo (PhD)](https://scholar.google.pt/citations?user=ciMn0XgAAAAJ&hl=en). The Sciencemeter platform is used to aggregate metrics from different sources, regarding scientific productions by the Department's researchers.
+
+Since I'm the sole developer of the project I am being given full liberty in it's achitecture and design, which is giving me the chance of working on these skills.
+
+**Repository not available**
+
+## B. MIEIC-FEUP
 
 ### 1. PROG - Programming
 
@@ -662,22 +685,3 @@ We ended up creating a tool for visualizing the dependencies of software project
 
 [**Link to the project**](https://github.com/daviddias99/dependency-manager-feup-asso)
 
-## Projects
-
-### 26. Emergent mechanisms to foster social awareness
-
-This project was developed for the [New Talents in Artificial Intelligence](https://gulbenkian.pt/bolsas-gulbenkian/novos-talentos/) grant by the [Calouste Gulbenkian Foundation](https://gulbenkian.pt/), of which I was one of twelve recipients.
-
-This grant served as my introduction to artificial intelligence and machine learning.
-
-My investigation, developed under the tutorship of [Prof. Rosaldo Rossetti (PhD)](https://scholar.google.com/citations?user=3IqnhE4AAAAJ&hl=en), titled "Emergent Coordination Mechanisms to Foster Social Awareness" used Multi-Agent Reinforcement Learning in conjunction with state-of-the-art reward-shaping techniques like Difference-Rewarding and Resource abstraction to study the concepts of sustainability and scalability under two existing literature problems defined with respect to new model for a class of problems dubbed "Resource Appropriation Problems".
-
-**The repository will be available soon**
-
-### 27. Sciencemeter
-
-This project is currently under development for the Departement of Informatics at FEUP, under the guidance of professor [Rui Maranhão (PhD)](https://ruimaranhao.com/) and [André Restivo (PhD)](https://scholar.google.pt/citations?user=ciMn0XgAAAAJ&hl=en). The Sciencemeter platform is used to aggregate metrics from different sources, regarding scientific productions by the Department's researchers.
-
-Since I'm the sole developer of the project I am being given full liberty in it's achitecture and design, which is giving me the chance of working on these skills.
-
-**Repository not available**
