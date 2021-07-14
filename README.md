@@ -2,9 +2,99 @@
 
 This repository is a summary of the projects I've made, mainly for the [Integrated Master's in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742) at FEUP.
 
+---
+- [Projects](#projects)
+  - [Language breakdown](#language-breakdown)
+  - [MIEIC FEUP](#mieic-feup)
+    - [1. PROG - Programming](#1-prog---programming)
+      - [Project 1](#project-1)
+      - [Project 2](#project-2)
+    - [2. AEDA - Algorithms and Data structures](#2-aeda---algorithms-and-data-structures)
+      - [Project 1](#project-1-1)
+      - [Project 2](#project-2-1)
+    - [3. LCOM - Computer Laboratory](#3-lcom---computer-laboratory)
+      - [Labs](#labs)
+      - [Project](#project)
+    - [4. BDAD - Databases](#4-bdad---databases)
+      - [Project](#project-1)
+    - [5. CAL - Algorithm Design and Analysis](#5-cal---algorithm-design-and-analysis)
+      - [Project](#project-2)
+    - [6. CGRA - Computer Graphics](#6-cgra---computer-graphics)
+      - [Project 1](#project-1-2)
+      - [Project 2](#project-2-2)
+    - [7. SOPE - Operating Systems](#7-sope---operating-systems)
+      - [Project 1](#project-1-3)
+      - [Project 2](#project-2-3)
+    - [8. LPOO - Object Oriented Programming Laboratory](#8-lpoo---object-oriented-programming-laboratory)
+      - [Project 1](#project-1-4)
+    - [9. PLOG - Logic Programming](#9-plog---logic-programming)
+      - [Project 1](#project-1-5)
+      - [Project 2](#project-2-4)
+    - [10. LAIG - Graphical Applications Laboratory](#10-laig---graphical-applications-laboratory)
+      - [Project 1](#project-1-6)
+      - [Project 2](#project-2-5)
+      - [Project 3](#project-3)
+    - [11. ESOF - Software Engineering](#11-esof---software-engineering)
+      - [Project](#project-3)
+    - [12. RCOM - Computer networks](#12-rcom---computer-networks)
+      - [Project 1](#project-1-7)
+      - [Project 2](#project-2-6)
+    - [13. LTW - Web technologies](#13-ltw---web-technologies)
+      - [Project](#project-4)
+    - [14. LBAW - Database and Web application laboratory](#14-lbaw---database-and-web-application-laboratory)
+      - [Project](#project-5)
+    - [15. IART - Artificial Intelligence](#15-iart---artificial-intelligence)
+      - [Project 1](#project-1-8)
+      - [Project 2](#project-2-7)
+    - [16. COMP - Compilers](#16-comp---compilers)
+      - [Project](#project-6)
+    - [17. SDIS - Distributed systems](#17-sdis---distributed-systems)
+      - [Project 1](#project-1-9)
+      - [Project 2](#project-2-8)
+    - [18. SINF - Information Systems](#18-sinf---information-systems)
+      - [Project](#project-7)
+    - [19. LDSO - Software Development Laboratory](#19-ldso---software-development-laboratory)
+      - [Project](#project-8)
+    - [20. AIAD - Agents and Distributed Artificial Intelligence](#20-aiad---agents-and-distributed-artificial-intelligence)
+      - [Project 1](#project-1-10)
+      - [Project 2](#project-2-9)
+    - [21. IOPE - Operations Research](#21-iope---operations-research)
+      - [Project](#project-9)
+    - [22. LGP - Project Management Laboratory](#22-lgp---project-management-laboratory)
+      - [Project](#project-10)
+    - [23. VCOM - Computer Vision](#23-vcom---computer-vision)
+      - [Project 1](#project-1-11)
+      - [Project 2](#project-2-10)
+    - [24. CPAR - Parallel computing](#24-cpar---parallel-computing)
+      - [Project 1](#project-1-12)
+      - [Project 2](#project-2-11)
+    - [25. ASSO - Software architecture](#25-asso---software-architecture)
+      - [Project](#project-11)
+---     
+
+## Language breakdown
+
+|Language   |Projects   |
+|-----------|--------|
+| C++  | 1, 2, 5  |
+| C  |  1, 3, 7, 12 |
+| Java  | 8 |
+| Python  |   |
+| Prolog  | 9, 10 |
+| Javascript  | 6, 10 |
+| Typescript  |   |
+| SQL  | 4, 11 |
+| Dart  | 11 |
+| HTML/CSS | 11 |
+| PHP | 11 |
+| ReactJS | 11 |
+| Ruby | 11 |
+
+
+
 ## MIEIC FEUP
 
-### PROG - Programming
+### 1. PROG - Programming
 
 This course had the goal of introducing us to basic programming concepts like types, input/output, control structures, data structures, etc. using the C/C++ language. 
 
@@ -36,7 +126,7 @@ The objective of this practical work is to develop two programs, one to create a
 [**Link to the project**](https://github.com/daviddias99/project-2-feup-prog)
 
 ---
-### AEDA - Algorithms and Data structures
+### 2. AEDA - Algorithms and Data structures
 
 In this course was focused on teaching us different algorithms (searching, sorting, ...) and data structures (lists, heaps, trees, sets, ...) and practicing their use using C++. We also learned about some concepts of UML, algorithm complexity (big-O notation).
 
@@ -61,7 +151,7 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha) a
 [**Link to the project**](https://github.com/daviddias99/pharmacy-chain-feup-aeda)
 
 ---
-### LCOM - Computer Laboratory
+### 3. LCOM - Computer Laboratory
 
 In this course we were taught concepts of low level and device programming. We had weekly lab sessions where we experimented with different devices such as the timer, mouse, keyboard, videocard. For the final project we developed a game called **Typing Invaders** that used all the devices used in the labs and the RTC, and serial port. This course allowed me to gain knowledge on low level programming, more advanced C, and embedded systems.
 
@@ -86,7 +176,7 @@ The projects and labs were developed with [Luís Cunha](https://github.com/luisp
 [**Link to the project**](https://github.com/daviddias99/low-level-programming-feup-lcom)
 
 ---
-### BDAD - Databases
+### 4. BDAD - Databases
 
 In this course we learned concepts of database design (normal forms, functional dependencies, ...) and of relational database systems. We learned the best practices for designing databases, querying, triggers, ACID, etc.. For the project we were challenged to to design and implement a database using SQLite3 for a given context. We implemented a movie/show database inspired by IMDB.
 
@@ -103,7 +193,7 @@ The project was developed with Bernardo Santos ([bernas670](https://github.com/b
 [**Link to the project**](https://github.com/bernas670/imdb-database-feup-bdad)
 
 ---
-### CAL - Algorithm Design and Analysis
+### 5. CAL - Algorithm Design and Analysis
 
 During the course we were taught concepts of algorithm design and analysis (duh!). We approached the concepts of greedy algorithms, divide and conquer, dynamic programming, backtracking , graph algorithms (shortest path, MST, flow, search, chinese postman, Euler circuit, matching, stable mariage), string search/compression and NP-complete reduction. 
 
@@ -120,7 +210,7 @@ The project was developed with Joana Ferreira ([joanaferreira0011](https://githu
 [**Link to the project**](https://github.com/daviddias99/ridesharing-using-graphs-feup-cal)
 
 ---
-### CGRA - Computer Graphics
+### 6. CGRA - Computer Graphics
 
 The computer graphics course was focused on teaching us the concepts of 3D modelling and 3D image generation. We learned concepts like lighting, shading, textures, shadow projection, colot, 3D surfaces, meshes, object modelling, rasterization, etc.. During the semester we did 2 projects that allowed us to apply this concepts in the creation of 3D scenes using WebGL.
 
@@ -145,7 +235,7 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha).
 [**Link to the project**](https://github.com/daviddias99/computer-graphics-feup-cgra)
 
 ---
-### SOPE - Operating Systems
+### 7. SOPE - Operating Systems
 
 This course was about operating systems and the concepts of low level OS programming in Linux. We talked about scheduling, processes, threads, concurrency, syncronization, memory management, I/O, etc.. The projects done for this course were used to apply and solidify our knowledge on these topics.
 
@@ -170,7 +260,7 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha) a
 [**Link to the project**](https://github.com/daviddias99/projects-feup-sope)
 
 ---
-### LPOO - Object Oriented Programming Laboratory
+### 8. LPOO - Object Oriented Programming Laboratory
 
 During this course we were introduced to concepts of Object Oriented programming and Software engineering. We learned about the SOLID principles, Design Patterns, UML, code smells, good practices, unit testing,... This was also our introduction to the Java programming language.
 
@@ -185,7 +275,7 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha)
 **Grade:** *Ungraded*
 
 ---
-### PLOG - Logic Programming
+### 9. PLOG - Logic Programming
 
 In this course I was introduced a new programming paradigm: logic programming. This new approach presented itself as a challenge, but a very powerful skill in some situations. We applied the concepts of PROLOG first in a board game (with computer play) and then in a constraint solving context, for a construction team scheduling problem.
 
@@ -211,7 +301,7 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha)
 [**Link to the project**](https://github.com/daviddias99/feup-plog)
 
 ---
-### LAIG - Graphical Applications Laboratory
+### 10. LAIG - Graphical Applications Laboratory
 
 The LAIG course was a continuation from the CGRA course. In this course we learned more advanced concepts of 3D computer graphics and were able to apply them in more complex projects. We created more complex 3D objects, used keyframe animations and interfaced with other problems, namely a board game built in the PLOG (Logic programming) course.
 
@@ -244,7 +334,7 @@ Both projects were developed with [Bernardo Santos](https://github.com/bernas670
 [**Link to the project**](https://github.com/daviddias99/computer-graphics-feup-laig)
 
 ---
-### ESOF - Software Engineering
+### 11. ESOF - Software Engineering
 
 The ESOF course gave us a birds-eye view into the software development pipeline from start to finish. In it we learned different development processes (XP, Scrum, Waterfall...), architectural patterns, documentation (UML diagrams), testing (unit, integration, acceptance), requirements engineering (user stories), product design and marketing (vision, elevator pitch, ...) and project management.
 
@@ -261,7 +351,7 @@ Developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00))
 [**Link to the project**](https://github.com/daviddias99/open-cx-mr-simba-feup-esof)
 
 ---
-### RCOM - Computer networks
+### 12. RCOM - Computer networks
 
 During the computer networks course we the basics of the topics following all the layers of the OSI model (Physical -> Data-link -> Network -> Transport -> Applications) along with other auxiliary topics such as MAC and Routing.
 
@@ -286,7 +376,7 @@ Both projects were developed with [Bernardo Santos](https://github.com/bernas670
 [**Link to the project**](https://github.com/daviddias99/networking-feup-rcom)
 
 ---
-### LTW - Web technologies
+### 13. LTW - Web technologies
 
 For this course we learned the basis of web technologies like HTML, CSS, PHP and Javascript. We also learned several concepts such as HTTP, regex, XML, basic topics of web security. We applied the learned concepts by building a website.
 
@@ -303,7 +393,7 @@ Both projects were developed with [Mário Gil](https://github.com/GambuzX) and L
 [**Link to the project**](https://github.com/daviddias99/paguri-feup-ltw)
 
 ---
-### LBAW - Database and Web application laboratory
+### 14. LBAW - Database and Web application laboratory
 
 In this course we applied the concepts learned in LTW and other software development courses by developping a large scale website. The website was developed in a waterfal fashion in order to facilitate the evaluation of all the steps. During the project we learned concepts of design (UI/UX) from a designer from the Faculty of Fine-Arts. We documented each step of the development from the User stories, mockups, database definition (conceptual, SQL, indexes, triggers), API documentation etc. We did this project in a group of 4.  
 
@@ -321,7 +411,7 @@ Developed with Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00))
 
 ---
 
-### IART - Artificial Intelligence
+### 15. IART - Artificial Intelligence
 
 In this course we were taught the basics of AI, following the Russel and Norvig book. We learned about agents, searching mechanisms, optimization techniques (anneaealing, genetic algorithms, etc.) and heuristics. We later were given an overview of Machine Learning and it's different fields: Supervised Learning, Unsupervised Learning, Reinforcement Learning and NLP
 
@@ -348,7 +438,7 @@ We used NLP techniques to pre-process the data and to classify it according to t
 [**Link to the project**](https://github.com/daviddias99/sentiment-analysis-in-tweets)
 
 ---
-### COMP - Compilers
+### 16. COMP - Compilers
 
 In this course we learned every step that composes a compiler, step by step, starting at a review of automata (from the Theory of Computation course), tokenization, lexical and semantic analysis, code optimization, tree and table representations, and ending in code generation and optimizations. To apply this knowledge we implemented a compiler of a subset of Java.
 
@@ -367,7 +457,7 @@ This compiler implements all the steps of a compiler and generated machine code 
 [**Link to the project**](https://github.com/daviddias99/JMMCompiler-feup-comp)
 
 ---
-### SDIS - Distributed systems
+### 17. SDIS - Distributed systems
 
 During this course we learned about issues related to distributed software applications, studied typical solutions to typical problems in that domain (distribution transparency, remote invocations, addressing, information dissemination, consensus, etc.), studied the software technologies needed to build distributed applications, developed the skills to use such technologies and to build concrete applications of small and medium size.
 
@@ -396,7 +486,7 @@ More info about the project on the link bellow.
 [**Link to the project**](https://github.com/daviddias99/P2P_chord_storage_system)
 
 ---
-### SINF - Information Systems
+### 18. SINF - Information Systems
 
 In this course we learned about concepts of information systems, talking about the different types of systems that are currently used in enterprises and manufacturing companies. We applied our concepts by developping an application that interfaced with the Primavera Jasmin ERP.
 
@@ -415,7 +505,7 @@ More info about the project on the link bellow.
 [**Link to the project**](https://github.com/daviddias99/cimba-intercompany-feup-sinf)
 
 ---
-### LDSO - Software Development Laboratory
+### 19. LDSO - Software Development Laboratory
 
 In the LDSO course we were divided into teams of about 7/8 students and were tasked to do a software project for a real company. During the project we were to apply several aspects of real software project development: testing, commiting, branching, SCRUM practices, software quality, ...
 
@@ -432,7 +522,7 @@ During this project I had the opportunity of contacting with an Agile Developmen
 **Grade:** 20/20
 
 ---
-### AIAD - Agents and Distributed Artificial Intelligence
+### 20. AIAD - Agents and Distributed Artificial Intelligence
 
 In AIAD we learned about several aspects of multi-agent systems and agent-oriented software development. We learned different agent architectures and explored machine learning techniques such as Reinforcement learning. We also explored concepts of negotiation modelling and were given an introduction to game theory.
 
@@ -459,7 +549,7 @@ Additionally, sellers had different probabillities of scamming the buyers, takin
 [**Link to the project**](https://github.com/daviddias99/mas-online-marketplace-feup-aiad)
 
 ---
-### IOPE - Operations Research
+### 21. IOPE - Operations Research
 
 In this course we learned about linear problem formulation and explored different types of problems and algorithms to solve them. We learned about the Simplex Method, Integer programming, Transporation problems, Assignment problems, Network and Graph problems and about decision theory.
 
@@ -478,7 +568,7 @@ The report contains a detailed description of both the problem and our efforts a
 [**Link to the project**](https://github.com/daviddias99/shipment-planning-feup-iope)
 
 ---
-### LGP - Project Management Laboratory
+### 22. LGP - Project Management Laboratory
 
 During LGP the a collection of programs at FEUP (MIEIC, MIEM, MESG, MESW) and from other faculties (Design @ FBAUP) are split into five companies. Each company must develop their company image and develop 4 projects, dividing the company into 4 teams. 
 
@@ -497,7 +587,7 @@ We also implemented the backend service that would manage and store the location
 **Grade:** ??/20
 
 ---
-### VCOM - Computer Vision
+### 23. VCOM - Computer Vision
 
 During this course we started by getting an overview of the classical computer vision pipeline: image acquisition, processing and analysis of acquired images (filtering, segmentation, feature extraction), camera calibration, stereo etc.
 
@@ -524,7 +614,7 @@ Both projects were developed with Bernardo Santos ([bernas670](https://github.co
 [**Link to the project**](https://github.com/daviddias99/artwork-recognition-feup-vcom)
 
 ---
-### CPAR - Parallel computing
+### 24. CPAR - Parallel computing
 
 In this course we learned about different aspects of parrallel computing and parallel machines. We learned about cache efficency, ways of parallelizing algorithms and ways of modelling and analyse the performance of parallel computer systems.
 
@@ -549,7 +639,7 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha).
 [**Link to the project**](https://github.com/daviddias99/algorithm-parallelization-feup-cpar)
 
 ---
-### ASSO - Software architecture
+### 25. ASSO - Software architecture
 
 In this course we learned concepts of software architecture. We learned popular patterns in both systems architecture and more low-level patterns (GoF patterns). We also learned about several types of software documentation and other aspects of the software conceptualization pipeline (requirements, quality attributes, ...).
 
