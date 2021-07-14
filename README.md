@@ -28,68 +28,72 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
     - [8. LPOO - Object Oriented Programming Laboratory](#8-lpoo---object-oriented-programming-laboratory)
       - [Project 1](#project-1-4)
     - [9. PLOG - Logic Programming](#9-plog---logic-programming)
-      - [Project 1](#project-1-5)
+      - [Project](#project-3)
       - [Project 2](#project-2-4)
     - [10. LAIG - Graphical Applications Laboratory](#10-laig---graphical-applications-laboratory)
-      - [Project 1](#project-1-6)
+      - [Project 1](#project-1-5)
       - [Project 2](#project-2-5)
       - [Project 3](#project-3)
     - [11. ESOF - Software Engineering](#11-esof---software-engineering)
-      - [Project](#project-3)
+      - [Project](#project-4)
     - [12. RCOM - Computer networks](#12-rcom---computer-networks)
-      - [Project 1](#project-1-7)
+      - [Project 1](#project-1-6)
       - [Project 2](#project-2-6)
     - [13. LTW - Web technologies](#13-ltw---web-technologies)
-      - [Project](#project-4)
-    - [14. LBAW - Database and Web application laboratory](#14-lbaw---database-and-web-application-laboratory)
       - [Project](#project-5)
+    - [14. LBAW - Database and Web application laboratory](#14-lbaw---database-and-web-application-laboratory)
+      - [Project](#project-6)
     - [15. IART - Artificial Intelligence](#15-iart---artificial-intelligence)
-      - [Project 1](#project-1-8)
+      - [Project 1](#project-1-7)
       - [Project 2](#project-2-7)
     - [16. COMP - Compilers](#16-comp---compilers)
-      - [Project](#project-6)
+      - [Project](#project-7)
     - [17. SDIS - Distributed systems](#17-sdis---distributed-systems)
-      - [Project 1](#project-1-9)
+      - [Project 1](#project-1-8)
       - [Project 2](#project-2-8)
     - [18. SINF - Information Systems](#18-sinf---information-systems)
-      - [Project](#project-7)
-    - [19. LDSO - Software Development Laboratory](#19-ldso---software-development-laboratory)
       - [Project](#project-8)
+    - [19. LDSO - Software Development Laboratory](#19-ldso---software-development-laboratory)
+      - [Project](#project-9)
     - [20. AIAD - Agents and Distributed Artificial Intelligence](#20-aiad---agents-and-distributed-artificial-intelligence)
-      - [Project 1](#project-1-10)
+      - [Project 1](#project-1-9)
       - [Project 2](#project-2-9)
     - [21. IOPE - Operations Research](#21-iope---operations-research)
-      - [Project](#project-9)
-    - [22. LGP - Project Management Laboratory](#22-lgp---project-management-laboratory)
       - [Project](#project-10)
+    - [22. LGP - Project Management Laboratory](#22-lgp---project-management-laboratory)
+      - [Project](#project-11)
     - [23. VCOM - Computer Vision](#23-vcom---computer-vision)
-      - [Project 1](#project-1-11)
+      - [Project 1](#project-1-10)
       - [Project 2](#project-2-10)
     - [24. CPAR - Parallel computing](#24-cpar---parallel-computing)
-      - [Project 1](#project-1-12)
+      - [Project 1](#project-1-11)
       - [Project 2](#project-2-11)
     - [25. ASSO - Software architecture](#25-asso---software-architecture)
-      - [Project](#project-11)
+      - [Project](#project-12)
+  - [Projects](#projects-1)
+    - [26. Emergent mechanisms to foster social awareness](#26-emergent-mechanisms-to-foster-social-awareness)
+    - [27. Sciencemeter](#27-sciencemeter)
 ---     
 
 ## Language breakdown
 
 |Language   |Projects   |
 |-----------|--------|
-| C++  | 1, 2, 5  |
-| C  |  1, 3, 7, 12 |
-| Java  | 8 |
-| Python  |   |
+| C++  | 1, 2, 5, 24  |
+| C  |  1, 3, 7, 12, 24 |
+| Java  | 8, 16, 17, 20 |
+| Python  | 15, 23, 26 |
 | Prolog  | 9, 10 |
-| Javascript  | 6, 10 |
-| Typescript  |   |
-| SQL  | 4, 11 |
-| Dart  | 11 |
-| HTML/CSS | 11 |
-| PHP | 11 |
-| ReactJS | 11 |
-| Ruby | 11 |
-
+| Javascript  | 6, 10, 13, 14, 18 |
+| Typescript  | 25, 27 |
+| SQL  | 4, 11, 13, 14, 18, 19 |
+| Flutter  | 11 |
+| HTML/CSS | 13, 14 |
+| PHP | 13, 14 |
+| Laravel | 14 |
+| ReactJS | 18, 19, 27 |
+| Ruby | 22 |
+| MongoDB | 27 |
 
 
 ## MIEIC FEUP
@@ -283,7 +287,7 @@ More info on the [course](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIE
 
 Both projects were developed with [Luís Cunha](https://github.com/luispcunha)
 
-#### Project 1
+#### Project
 
 **Description:** This project had us implement the game of Squex using PROLOG. The game was displayed in the console and is fully playable. This includes: listing available plays, checking for game over, executing plays, computer-AI, board evaluation. You can find the specification and final report in `project_1_squex/docs`. 
 
@@ -645,7 +649,7 @@ In this course we learned concepts of software architecture. We learned popular 
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272348).
 
-The project was developed with Gonçalo Marantes ([Marantesss](https://github.com/Marantesss)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Ricardo Ferreira ([ricardojaferreira](https://github.com/ricardojaferreira)).
+The project was developed with Gonçalo Marantes ([Marantesss](https://github.com/Marantesss)), João Matos ([joaonmatos](https://github.com/joaonmatos)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Ricardo Ferreira ([ricardojaferreira](https://github.com/ricardojaferreira)).
 .
 
 #### Project
@@ -657,3 +661,9 @@ We ended up creating a tool for visualizing the dependencies of software project
 **Grade:** ??/20
 
 [**Link to the project**](https://github.com/daviddias99/dependency-manager-feup-asso)
+
+## Projects
+
+### 26. Emergent mechanisms to foster social awareness
+
+### 27. Sciencemeter
