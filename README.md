@@ -82,7 +82,7 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
 | C++  | 1, 2, 5, 24  |
 | C  |  1, 3, 7, 12, 24 |
 | Java  | 8, 16, 17, 20 |
-| Python  | 15, 23, B.1 |
+| Python  | 15, 23, A.1 |
 | Prolog  | 9, 10 |
 | Javascript  | 6, 10, 13, 14, 18 |
 | Typescript  | 25, B.2 |
@@ -91,11 +91,11 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
 | HTML/CSS | 13, 14 |
 | PHP | 13, 14 |
 | Laravel | 14 |
-| ReactJS | 18, 19, B.2 |
+| ReactJS | 18, 19, A.2 |
 | Ruby | 22 |
-| MongoDB | B.2 |
+| MongoDB | A.2 |
 
-***Project IDs are from section A unless indicated otherwise**
+***Project IDs are from section B unless indicated otherwise**
 
 ---
 
