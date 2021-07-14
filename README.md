@@ -650,7 +650,7 @@ In this course we learned concepts of software architecture. We learned popular 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272348).
 
 The project was developed with Gonçalo Marantes ([Marantesss](https://github.com/Marantesss)), João Matos ([joaonmatos](https://github.com/joaonmatos)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Ricardo Ferreira ([ricardojaferreira](https://github.com/ricardojaferreira)).
-.
+
 
 #### Project
 
@@ -666,4 +666,18 @@ We ended up creating a tool for visualizing the dependencies of software project
 
 ### 26. Emergent mechanisms to foster social awareness
 
+This project was developed for the [New Talents in Artificial Intelligence](https://gulbenkian.pt/bolsas-gulbenkian/novos-talentos/) grant by the [Calouste Gulbenkian Foundation](https://gulbenkian.pt/), of which I was one of twelve recipients.
+
+This grant served as my introduction to artificial intelligence and machine learning.
+
+My investigation, developed under the tutorship of [Prof. Rosaldo Rossetti (PhD)](https://scholar.google.com/citations?user=3IqnhE4AAAAJ&hl=en), titled "Emergent Coordination Mechanisms to Foster Social Awareness" used Multi-Agent Reinforcement Learning in conjunction with state-of-the-art reward-shaping techniques like Difference-Rewarding and Resource abstraction to study the concepts of sustainability and scalability under two existing literature problems defined with respect to new model for a class of problems dubbed "Resource Appropriation Problems".
+
+**The repository will be available soon**
+
 ### 27. Sciencemeter
+
+This project is currently under development for the Departement of Informatics at FEUP, under the guidance of professor [Rui Maranhão (PhD)](https://ruimaranhao.com/) and [André Restivo (PhD)](https://scholar.google.pt/citations?user=ciMn0XgAAAAJ&hl=en). The Sciencemeter platform is used to aggregate metrics from different sources, regarding scientific productions by the Department's researchers.
+
+Since I'm the sole developer of the project I am being given full liberty in it's achitecture and design, which is giving me the chance of working on these skills.
+
+**Repository not available**
