@@ -505,7 +505,7 @@ Later we learned about machine learning concepts and approaches used in computer
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=384980).
 
-Both projects were developed with Bernardo Santos ([bernas670](https://github.com/bernas670)), Laura Majer ([m-ajer](https://github.com/luispcunha)) Luís Cunha ([luispcunha](https://github.com/m-ajer))
+Both projects were developed with Bernardo Santos ([bernas670](https://github.com/bernas670)), Laura Majer ([m-ajer](https://github.com/luispcunha)) and Luís Cunha ([luispcunha](https://github.com/m-ajer))
 
 #### Project 1
 
@@ -526,7 +526,7 @@ Both projects were developed with Bernardo Santos ([bernas670](https://github.co
 ---
 ### CPAR - Parallel computing
 
-In this course we learned about differnt aspects of parrallel computing and parallel machines. We learned about cache efficency, ways of parallelizing algorithms and ways of modelling and analyse the performance of parallel computer systems.
+In this course we learned about different aspects of parrallel computing and parallel machines. We learned about cache efficency, ways of parallelizing algorithms and ways of modelling and analyse the performance of parallel computer systems.
 
 More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=350413).
 
@@ -547,3 +547,23 @@ Both projects were developed with [Luís Cunha](https://github.com/luispcunha).
 **Grade:** 18.4/20
 
 [**Link to the project**](https://github.com/daviddias99/algorithm-parallelization-feup-cpar)
+
+---
+### ASSO - Software architecture
+
+In this course we learned concepts of software architecture. We learned popular patterns in both systems architecture and more low-level patterns (GoF patterns). We also learned about several types of software documentation and other aspects of the software conceptualization pipeline (requirements, quality attributes, ...).
+
+More info on the [course](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272348).
+
+The project was developed with Gonçalo Marantes ([Marantesss](https://github.com/Marantesss)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Ricardo Ferreira ([ricardojaferreira](https://github.com/ricardojaferreira)).
+.
+
+#### Project
+
+**Description:** In this project we had the task of developping a module of a larger system related with the team of live software development. The goal of the project was not so much the dimension and complexity of the project but rather the process of conceptualizing, creating the architecture, requirements, goals, constraints, instantiating possible design patterns, ...
+
+We ended up creating a tool for visualizing the dependencies of software projects, and analysing the resulting tree. We presented a Proof-of-Concept by instatiating the project for  Javascript projects.
+
+**Grade:** ??/20
+
+[**Link to the project**](https://github.com/daviddias99/dependency-manager-feup-asso)
