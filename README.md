@@ -73,6 +73,8 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
       - [Project 2](#project-2-11)
     - [25. ASSO - Software architecture](#25-asso---software-architecture)
       - [Project](#project-12)
+  - [C. Personal projects](#c-personal-projects)
+    - [1. Advent of Code](#1-advent-of-code)
 ---     
 
 ## Language breakdown
@@ -82,7 +84,7 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
 | C++  | 1, 2, 5, 24  |
 | C  |  1, 3, 7, 12, 24 |
 | Java  | 8, 16, 17, 20 |
-| Python  | 15, 23, A.1 |
+| Python  | 15, 23, A.1 C.1|
 | Prolog  | 9, 10 |
 | Javascript  | 6, 10, 13, 14, 18 |
 | Typescript  | 25, B.2 |
@@ -94,6 +96,7 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
 | ReactJS | 18, 19, A.2 |
 | Ruby | 22 |
 | MongoDB | A.2 |
+| Lua | C.1 |
 
 ***Project IDs are from section B unless indicated otherwise**
 
@@ -685,3 +688,10 @@ We ended up creating a tool for visualizing the dependencies of software project
 
 [**Link to the project**](https://github.com/daviddias99/dependency-manager-feup-asso)
 
+## C. Personal projects
+
+### 1. Advent of Code
+
+Christmas time is my favourite season, and so it made sense to try to do the Advent of Code calendar each year. The first year was a failure, but the second year I got past the half-way point. Maybe one day I'll reach the end.
+
+[**Link to the project**](https://github.com/daviddias99/aoc)
