@@ -684,7 +684,7 @@ The project was developed with Gonçalo Marantes ([Marantesss](https://github.co
 
 We ended up creating a tool for visualizing the dependencies of software projects, and analysing the resulting tree. We presented a Proof-of-Concept by instatiating the project for  Javascript projects.
 
-**Grade:** ??/20
+**Grade:** 19/20
 
 [**Link to the project**](https://github.com/daviddias99/dependency-manager-feup-asso)
 
