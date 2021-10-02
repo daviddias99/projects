@@ -87,7 +87,7 @@ This repository is a summary of the projects I've made, mainly for the [Integrat
 | Python  | 15, 23, A.1 C.1|
 | Prolog  | 9, 10 |
 | Javascript  | 6, 10, 13, 14, 18 |
-| Typescript  | 25, B.2 |
+| Typescript  | 25, A.2 |
 | SQL  | 4, 11, 13, 14, 18, 19 |
 | Flutter  | 11 |
 | HTML/CSS | 13, 14 |
