@@ -2,6 +2,8 @@
 
 This repository is a summary of the projects I've made, mainly for the [Integrated Master's in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742) at FEUP.
 
+Feel free to look at my [cv](/Resume.pdf).
+
 ---
 - [Projects](#projects)
   - [Language breakdown](#language-breakdown)
