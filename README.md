@@ -1,6 +1,6 @@
 # Projects
 
-This repository is a summary of the projects I've made, mainly for the [Integrated Master's in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742) at FEUP.
+This repository is a summary of the projects I've made, mainly for the [Integrated Master's in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742) at FEUP. Section C contains projects done during an exchange semester at the Technische Universität München.
 
 Feel free to look at my [cv](/Resume.pdf).
 
@@ -75,7 +75,12 @@ Feel free to look at my [cv](/Resume.pdf).
       - [Project 2](#project-2-11)
     - [25. ASSO - Software architecture](#25-asso---software-architecture)
       - [Project](#project-12)
-  - [C. Personal projects](#c-personal-projects)
+  - [C. TUM](#c-tum)
+    - [1. CDB - Cloud databases](#1-cdb---cloud-databases)
+      - [Project](#project-13)
+    - [2. ASE - Advanced Topics of Software Engineering](#2-ase---advanced-topics-of-software-engineering)
+      - [Project](#project-14)
+  - [D. Personal projects](#d-personal-projects)
     - [1. Advent of Code](#1-advent-of-code)
 ---     
 
@@ -85,20 +90,21 @@ Feel free to look at my [cv](/Resume.pdf).
 |-----------|--------|
 | C++  | 1, 2, 5, 24  |
 | C  |  1, 3, 7, 12, 24 |
-| Java  | 8, 16, 17, 20 |
-| Python  | 15, 23, A.1 C.1|
+| Java  | 8, 16, 17, 20, C.1, C.2 |
+| Python  | 15, 23, A.1 D.1, C.2|
 | Prolog  | 9, 10 |
 | Javascript  | 6, 10, 13, 14, 18 |
-| Typescript  | 25, A.2 |
+| Typescript  | 25, A.2, C.2 |
 | SQL  | 4, 11, 13, 14, 18, 19 |
 | Flutter  | 11 |
 | HTML/CSS | 13, 14 |
 | PHP | 13, 14 |
 | Laravel | 14 |
-| ReactJS | 18, 19, A.2 |
+| ReactJS | 18, 19, A.2, C.2 |
+| Spring | C.2 |
 | Ruby | 22 |
-| MongoDB | A.2 |
-| Lua | C.1 |
+| MongoDB | A.2 C.2|
+| Lua | D.1 |
 
 ***Project IDs are from section B unless indicated otherwise**
 
@@ -690,7 +696,56 @@ We ended up creating a tool for visualizing the dependencies of software project
 
 [**Link to the project**](https://github.com/daviddias99/dependency-manager-feup-asso)
 
-## C. Personal projects
+## C. TUM
+
+### 1. CDB - Cloud databases
+
+This course enabled us to put in practice concepts of distributed systems and systems design. All groups had to develop a system that conformed to the specification split into 4 milestones. For the final part of the course, we were given the liberty of extending the system. Our group chose to make the system fully decentralized by implementing the Chord P2P protocol to replace the centralized configuration server.
+
+More info on the [course](https://www.in.tum.de/i13/teaching/winter-semester-201920/practical-course-cloud-data-bases/).
+
+The project was developed with Lukas Bernwald and Krisela Skenderi.
+
+#### Project
+
+**Description:** For the course, we had to develop and eveolve a distributed database. 
+- The goal of the 1st milestone was to create a simple echo client, that would connect to a network server. 
+- For the 2nd milestone, a basic key-value storage server and client were created. 
+- The 3rd milestone extended the system by creating a distributed responsability server ring, where each server was responsible for a given interval of keys. The structure of the ring was mantained by a centralized peer (External Configuration Server) which reacted to server joins, fails and departures.
+- The 4th milestone introduced replication to the key-value pairs.
+- For the project, we were given the liberty to extend the created system. We chose to remove the ECS by implementing the [Chord](https://en.wikipedia.org/wiki/Chord_(peer-to-peer)) distributed hash table protocol.
+  
+**Grade:** 20/20 (converted from 1.0 in [TUM Grading](https://www.ph.tum.de/academics/faq/grading/?language=en))
+
+[**Link to the project**](https://github.com/daviddias99/distributed-db-tum-cdb)
+
+### 2. ASE - Advanced Topics of Software Engineering
+
+The course delved into several topics of the software engineering area. We covered software architecture and processes, information and embedded systems, software requirements, antipatterns, safety, security, testability, database-centric archs., message-oriented archs., object-oriented archs., component-based archs., service-oriented archs., microservices, cloud computing, virtualization and more.
+
+More info on the [course](https://wwwmatthes.in.tum.de/pages/c9ulr7t9nrqs/Advanced-Topics-of-Software-Engineering).
+
+The project was developed with Achraf Aroua, Erem Gülum, Ruilin Qi and Xavier George.
+
+#### Project
+
+**Description:** We have implemented a pick-up station (aka. pack station) delivery service as part of the Advanced Software Engineering term project.
+
+_In this system, each customer who orders items is assigned a box at a pick-up station. The service then
+delivers the items from a central depot to the customer’s box at the pick-up stations.
+There are three user roles in ASE Delivery: dispatchers, deliverers, and customers. Dispatchers are responsible for the management of pick-up boxes and deliveries. Deliverers transport deliveries to the pick-up
+box assigned to a customer. Finally, Customers collect their delivery from their box. To verify if a deliverer
+or customer can unlock a box, each deliverer and customer is given an RFID tag for identification. Each
+pick-up box has an RFID scanner to read the RFID tag from a deliverer or customer and determine if they
+are authorized to unlock the box. The Customers are informed when their delivery is created, delivered, or
+picked up successfully_
+
+**Grade:** ??/20 converted from ?? in [TUM Grading](https://www.ph.tum.de/academics/faq/grading/?language=en))
+
+[**Link to the project**](https://github.com/daviddias99/delivery-service-tum-ase)
+
+
+## D. Personal projects
 
 ### 1. Advent of Code
 
