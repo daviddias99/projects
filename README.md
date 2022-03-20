@@ -740,7 +740,7 @@ pick-up box has an RFID scanner to read the RFID tag from a deliverer or custome
 are authorized to unlock the box. The Customers are informed when their delivery is created, delivered, or
 picked up successfully_
 
-**Grade:** ??/20 converted from ?? in [TUM Grading](https://www.ph.tum.de/academics/faq/grading/?language=en))
+**Grade:** 0.6/1.0
 
 [**Link to the project**](https://github.com/daviddias99/delivery-service-tum-ase)
 
