@@ -622,7 +622,7 @@ Our product was developed by request of [Jumpseller](https://jumpseller.com/) an
 
 We also implemented the backend service that would manage and store the locations of the couriers and display them on a map on the clients browser so tha they could live track the progress of their package.
 
-**Grade:** ??/20
+**Grade:** 18/20
 
 ---
 ### 23. VCOM - Computer Vision
