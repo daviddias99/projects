@@ -10,6 +10,7 @@ Feel free to look at my [cv](/Resume.pdf).
   - [A. Projects](#a-projects)
     - [1. Emergent mechanisms to foster social awareness](#1-emergent-mechanisms-to-foster-social-awareness)
     - [2. Sciencemeter](#2-sciencemeter)
+    - [3. SIMoT](#3-simot)
   - [B. MIEIC-FEUP](#b-mieic-feup)
     - [1. PROG - Programming](#1-prog---programming)
       - [Project 1](#project-1)
@@ -94,7 +95,7 @@ Feel free to look at my [cv](/Resume.pdf).
 | Python  | 15, 23, A.1 D.1, C.2|
 | Prolog  | 9, 10 |
 | Javascript  | 6, 10, 13, 14, 18 |
-| Typescript  | 25, A.2, C.2 |
+| Typescript  | 25, A.2, C.2 A.3|
 | SQL  | 4, 11, 13, 14, 18, 19 |
 | Flutter  | 11 |
 | HTML/CSS | 13, 14 |
@@ -124,9 +125,17 @@ My investigation, developed under the tutorship of [Prof. Rosaldo Rossetti (PhD)
 
 ### 2. Sciencemeter
 
-This project is currently under development for the Departement of Informatics at FEUP, under the guidance of professor [Rui Maranhão (PhD)](https://ruimaranhao.com/) and [André Restivo (PhD)](https://scholar.google.pt/citations?user=ciMn0XgAAAAJ&hl=en). The Sciencemeter platform is used to aggregate metrics from different sources, regarding scientific productions by the Department's researchers.
+This project is currently under development for the Departement of Informatics at FEUP, under the guidance of professor [André Restivo (PhD)](https://scholar.google.pt/citations?user=ciMn0XgAAAAJ&hl=en) and [Rui Maranhão (PhD)](https://ruimaranhao.com/). The Sciencemeter platform is used to aggregate metrics from different sources, regarding scientific productions by the Department's researchers.
 
-Since I'm the sole developer of the project I am being given full liberty in it's achitecture and design, which is giving me the chance of working on these skills.
+Since I was the sole developer of the project I was being given full liberty in it's achitecture and design, which gave me the chance to work on these skills.
+
+**Not open source**
+
+### 3. SIMoT
+
+SIMoT is a low-fidelity IoT simulator developed by [Tiago Fragoso](https://github.com/tiagofragoso) in order to evaluate different centralized device orchestration techniques. The simulator allowed the author to improve orchestration techniques purposed by Silva et al. for its [extension of the Node-RED framework](https://dl.acm.org/doi/10.1145/3448891.3448938).
+
+For my Master's thesis, I took advantage of this simulator by extending it to support decentralized orchestration using the Consensus-based Bundle Algorithm (CBBA). As such, I contributed to it by converting it to Typescript and performing a general code refactor to improve its extensibility.
 
 **Repository not available**
 
